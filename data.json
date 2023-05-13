@@ -1,0 +1,118 @@
+{
+  "vehiculos": [
+    {
+      "marca": "Toyota",
+      "color": "Rojo",
+      "precio": 25000,
+      "año": 2018
+    },
+    {
+      "marca": "Ford",
+      "color": "Azul",
+      "precio": 18000,
+      "año": 2016
+    },
+    {
+      "marca": "Honda",
+      "color": "Plateado",
+      "precio": 30000,
+      "año": 2019
+    },
+    {
+      "marca": "Chevrolet",
+      "color": "Negro",
+      "precio": 22000,
+      "año": 2017
+    },
+    {
+      "marca": "Volkswagen",
+      "color": "Blanco",
+      "precio": 15000,
+      "año": 2015
+    },
+    {
+      "marca": "BMW",
+      "color": "Gris",
+      "precio": 40000,
+      "año": 2020
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "color": "Negro",
+      "precio": 35000,
+      "año": 2021
+    },
+    {
+      "marca": "Audi",
+      "color": "Rojo",
+      "precio": 38000,
+      "año": 2022
+    },
+    {
+      "marca": "Hyundai",
+      "color": "Azul",
+      "precio": 20000,
+      "año": 2014
+    },
+    {
+      "marca": "Kia",
+      "color": "Plateado",
+      "precio": 23000,
+      "año": 2017
+    },
+    {
+      "marca": "Nissan",
+      "color": "Blanco",
+      "precio": 21000,
+      "año": 2016
+    },
+    {
+      "marca": "Subaru",
+      "color": "Negro",
+      "precio": 26000,
+      "año": 2019
+    },
+    {
+      "marca": "Mazda",
+      "color": "Gris",
+      "precio": 19000,
+      "año": 2015
+    },
+    {
+      "marca": "Jeep",
+      "color": "Verde",
+      "precio": 32000,
+      "año": 2020
+    },
+    {
+      "marca": "Volvo",
+      "color": "Plateado",
+      "precio": 28000,
+      "año": 2018
+    },
+    {
+      "marca": "Lexus",
+      "color": "Negro",
+      "precio": 42000,
+      "año": 2023
+    },
+    {
+      "marca": "Ferrari",
+      "color": "Rojo",
+      "precio": 150000,
+      "año": 2021
+    },
+    {
+      "marca": "Porsche",
+      "color": "Blanco",
+      "precio": 100000,
+      "año": 2022
+    },
+    {
+      "marca": "Tesla",
+      "color": "Gris",
+      "precio": 60000,
+      "año": 2020
+    }
+  ]
+}
